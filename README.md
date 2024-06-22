@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-- Introduction
-- Setup
-- Exploration
-- Plotting
-- Findings
-- Conclusion
+- [Introduction](https://github.com/bigboisw/senator-trading-EDA/tree/main#introduction)
+- [Setup](https://github.com/bigboisw/senator-trading-EDA/tree/main#setup)
+- [Exploration](https://github.com/bigboisw/senator-trading-EDA/tree/main#exploration)
+- [Plotting](https://github.com/bigboisw/senator-trading-EDA/tree/main#plotting)
+- [Findings](https://github.com/bigboisw/senator-trading-EDA/tree/main#findings)
+- [Conclusion](https://github.com/bigboisw/senator-trading-EDA/tree/main#conclusion)
 
 ## Introduction
 
